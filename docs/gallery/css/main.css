@@ -197,6 +197,8 @@ img { max-width: 100%; }
 
 .icon > svg path { fill: #606c76; }
 
+.row { margin: inherit; }
+
 /** Site header */
 .wrapper .container { max-width: 80rem; }
 
